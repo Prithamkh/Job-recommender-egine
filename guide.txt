@@ -1,0 +1,28 @@
+Step-by-Step Guide:
+
+Create a Virtual Environment:
+Open your command prompt or terminal or in VS Code IDE.
+Navigate to your project directory:
+type - cd path_to_your_project_directory
+
+Create a virtual environment (let's name it venv)”VS(Vitual Studio)Code”:
+In ur vs code run ur app.py code in terminal give path and
+type - python -m venv venv
+
+Activate the virtual environment:
+On Windows:
+type - venv\Scripts\activate
+
+Install Required Packages:
+Once the virtual environment is activated, install streamlit and other necessary packages:
+type - pip install streamlit joblib scikit-learn pandas numpy
+
+Verify Installation:
+Check if streamlit is installed correctly:
+type - streamlit --version
+
+Run Your Streamlit App:
+Navigate to the directory where your app.py file is located.
+Run the Streamlit app:
+type - streamlit run app.py
+
