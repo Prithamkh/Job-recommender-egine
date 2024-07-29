@@ -1,1 +1,1 @@
-A simple machine learning project credit card fraud detection
+A simple machine learning project job recommendation system
